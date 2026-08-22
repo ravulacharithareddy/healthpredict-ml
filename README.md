@@ -1,5 +1,3 @@
-# healthpredict-ml
-A machine-learning-based web application for multiple disease prediction.
 # HealthPredict — Multiple Disease Prediction Using Machine Learning
 
 ## Overview
